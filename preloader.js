@@ -38,7 +38,7 @@ function hideOverlay() {
         renderer: 'svg', // ou 'canvas' se preferir
         loop: true,
         autoplay: true,
-        path: 'https://jvsc99.github.io/preloaderJSLottie/JVGIsylS3F-3.json',
+        path: 'https://fraevar.github.io/preloaderJSLottie/Animation - 1699894346443.json',
     });
 }
 
